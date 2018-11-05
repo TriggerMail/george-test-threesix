@@ -1,1 +1,1 @@
-# george-test-threesix
+Congrats on your new repo: george-test-threesix!. CircleCI is set up for you here: https://circleci.com/gh/TriggerMail/george-test-threesix
